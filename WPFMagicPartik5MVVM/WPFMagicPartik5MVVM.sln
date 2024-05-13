@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34723.18
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WPFMagicPartik5MVVM", "WPFMagicPartik5MVVM\WPFMagicPartik5MVVM.csproj", "{FDF90689-CB58-48D2-ACE4-DA26256C9A31}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FDF90689-CB58-48D2-ACE4-DA26256C9A31}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FDF90689-CB58-48D2-ACE4-DA26256C9A31}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FDF90689-CB58-48D2-ACE4-DA26256C9A31}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FDF90689-CB58-48D2-ACE4-DA26256C9A31}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CB7F0F16-D4E1-4EAF-B9C4-E336AA9016DB}
+	EndGlobalSection
+EndGlobal
